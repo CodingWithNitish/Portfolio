@@ -4,7 +4,7 @@
 
 I have been involved with 25+ automation from end to end. My role included designing process flow, development, testing, assisting UAT and publishing the same into Production. Additionally, I have also worked on the documentation like SDD, TDD, ODD etc.
 
-<center><img src="images/RPA.jpg"/></center>
+<center><img src="https://goalgetters.com/wp-content/uploads/2021/01/RPA-dial-2048x1363.jpg"/></center>
 
 ---
 
@@ -14,4 +14,4 @@ I have been involved with 25+ automation from end to end. My role included desig
 
 I have been into this HR Ops domain project with integration services using Workato for past 1.5 year now. I have been working as a Team lead in the project. Here my responsibilites goes around from connecting with client for getting the requirement till UAT for the code. I have integrated around 14 processes.
 
-<center><img src="images/workato.jpg"/></center>
+<center><img src="https://www.logisense.com/learn/news/img/workato.jpg"/></center>
