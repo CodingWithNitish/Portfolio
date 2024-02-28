@@ -16,6 +16,8 @@ I have been into this HR Ops domain project with integration services using Work
 
 <center><img src="https://www.logisense.com/learn/news/img/workato.jpg"/></center>
 
+---
+
 ## Test
 ## Fraud Detection Algo - Test
 
