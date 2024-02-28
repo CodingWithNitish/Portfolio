@@ -1,6 +1,19 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Nitish Sharma </p>
+logo: /assets/img/Me.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/nitish-sharma-6563588b/">LinkedIn</a> |
+  <a href="https://github.com/CodingWithNitish">GitHub</a>
+  
+  <br>   
+  Working in IPAAS as Workato developer for more than 1.5 years.
+  Worked as RPA developer with experience in Blue Prism and UiPath.
+  Certified Workato Pro 3, Blue Prism ADO01 and UiPath Advanced Developer 2018.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
